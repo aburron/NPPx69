@@ -1,6 +1,11 @@
 ﻿#pragma strict
 
 //Hola soy Juan
+<<<<<<< HEAD
+
+=======
+//aburron
+>>>>>>> origin/master
 
 function Start () {
 
