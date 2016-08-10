@@ -20,3 +20,7 @@ Cada lugar en el que el jugador pueda entrar, tendrá una escena independiente d
 • HUD sencilla: 3 corazones (vida), contador (monedas).
 
 • Enemigos: tanto jugador como enemigos disparan algo por medio de raycasts.
+
+• Control: Mediante un control de juego, el jugador tendrá que moverse y girar la camara para poder ver su alrededor, aunque no se descarta el control por teclado (debido a los problemas de vision que da la camara estática para observar el diseño de nivel).
+
+• Plataformas: Hablando de controles, el juego es único y exclusivo para PC/Linux/Mac. No se descarta la idea de exportarlo a Android y videoconsolas.
