@@ -19,4 +19,4 @@ Cada lugar en el que el jugador pueda entrar, tendrá una escena independiente d
 
 • HUD sencilla: 3 corazones (vida), contador (monedas).
 
-• Enemigos: tanto jugador como enemigos disparan algo por medio de raycasts
+• Enemigos: tanto jugador como enemigos disparan algo por medio de raycasts.
