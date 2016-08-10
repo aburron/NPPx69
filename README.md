@@ -14,4 +14,9 @@ NPPx69 project
 Cada lugar en el que el jugador pueda entrar, tendrá una escena independiente del nivel principal (para tener mas espacio y libertad de creación).
 
 •	Posible mecánica: Si atacas a alguien, todo el mundo cerca de un radio de advertencia te perseguirá hasta matarte.
-•	Ciclo día-noche...
+
+•	Ciclo día-noche.
+
+• HUD sencilla: 3 corazones (vida), contador (monedas).
+
+• Enemigos: tanto jugador como enemigos disparan algo por medio de raycasts
