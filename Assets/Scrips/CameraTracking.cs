@@ -6,15 +6,15 @@ public class CameraTracking : MonoBehaviour {
 	public GameObject player;
 	Vector3 offset;
 
-	// Use this for initialization
+
 	void Start () 
-	{
+	{//al iniciar, la variable offset va a ser la posicion del jugador
 		offset = transform.position;
 	}
 	
-	// Update is called once per frame
+
 	void LateUpdate () 
-	{
+	{//La variable offset se va sumando a la posicion del jugador conforme cambia de posicion
 		transform.position = player.transform.position + offset;
 	}
 }
