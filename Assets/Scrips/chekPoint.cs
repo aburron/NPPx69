@@ -10,7 +10,7 @@ public class chekPoint : MonoBehaviour {
 	void Start ()
 	{ 	
 		//ACTIVAR EN CASO DE QUERER BORRAR LOS DATOS GUARDADOS
-		//PlayerPrefs.DeleteAll (); 
+		PlayerPrefs.DeleteAll (); 
 
 		//Al iniciar el juego, se obtienen las posiciones en XYZ para guardarlos posteriormente
 		target.transform.position = new Vector3(PlayerPrefs.GetFloat ("tran.pos.x"), PlayerPrefs.GetFloat ("tran.pos.y"), PlayerPrefs.GetFloat ("tran.pos.z"));
