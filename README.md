@@ -27,3 +27,8 @@ Cada lugar en el que el jugador pueda entrar, tendrá una escena independiente d
 
 -------------------------------------------------------------------------------------------------------------------------------
 
+• El juego te dirá que durante el día tienes que hacer tus misiones, pero que tengas cuidado con la noche. Por la noche aparecerán NPCs que quieran que te unas a su bando malvado. Esos NPCs aparecerán (algunos) de día para incitarte a que esperes hasta la noche para hablar con ellos.
+
+• Sentimiento de personificación: A medida que el jugador se una a un bando u a otro, la apariencia del avatar cambiará, llevando a cabo la apertura de un final alternativo (Ningun final tiene por que se bueno o malo).
+
+• La alcaldesa es una mala persona y corrupta (por dentro, el jugador se dará cuenta si corre por la via contraria a esta).
