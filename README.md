@@ -8,7 +8,7 @@ NPPx69 project
 •	LowPoly.
 
 
-•	Jugador empieza en una []. El objetivo básico es realizar las misiones que van poniendo los NPC (modelos 3D básicos).
+•	Jugador empieza en su casa, con la llamada de la alcaldesa. El objetivo básico es realizar las misiones que van poniendo los NPC (modelos 3D básicos).
 
 •	El mundo estará compuesto por una escena principal, con casas y sitios a los que se puedan entrar. 
 Cada lugar en el que el jugador pueda entrar, tendrá una escena independiente del nivel principal (para tener mas espacio y libertad de creación).
@@ -19,7 +19,7 @@ Cada lugar en el que el jugador pueda entrar, tendrá una escena independiente d
 
 • HUD sencilla: 3 corazones (vida), contador (monedas).
 
-• Enemigos: .
+• Enemigos: Dependiendo del bando que elijas (blanco bueno, negro malo).
 
 • Control: Mediante un control de juego, el jugador tendrá que moverse y girar la camara para poder ver su alrededor, aunque no se descarta el control por teclado (debido a los problemas de vision que da la camara estática para observar el diseño de nivel).
 
@@ -31,4 +31,4 @@ Cada lugar en el que el jugador pueda entrar, tendrá una escena independiente d
 
 • Sentimiento de personificación: A medida que el jugador se una a un bando u a otro, la apariencia del avatar cambiará, llevando a cabo la apertura de un final alternativo (Ningun final tiene por que se bueno o malo).
 
-• La alcaldesa es una mala persona y corrupta (por dentro, el jugador se dará cuenta si corre por la via contraria a esta).
+• La alcaldesa es una mala persona y corrupta (por dentro, el jugador se dará cuenta si elige el bando malo).
